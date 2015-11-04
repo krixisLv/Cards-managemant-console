@@ -1,0 +1,61 @@
+
+/* fonts */
+
+body {
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: #d4d3d3;
+}
+
+#body {
+    padding: 20px;
+}
+
+#menu a {
+    margin-left: 30px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#menu {
+    border-bottom: 1px solid black;
+    margin-bottom: 15px;
+}
+
+.alignright {
+    text-align: right;
+}
+
+.alignleft {
+    text-align: left;
+}
+
+.cell_label {
+    padding-right: 3px;
+    border-right:1px solid black;
+}
+
+.cell_value input{
+    width: 70px;
+}
+
+#cards_table {
+    margin-top: 30px;
+    padding: 15px;
+}
+
+#cards_table td, #cards_table th{
+    width: 150px;
+}
+
+.submit_button {
+    text-decoration: none;
+    border:1px solid black;
+    border-radius: 2px;
+    padding: 2px;
+}
+
+#cards_table td.wide, #cards_table th.wide {
+    width: 200px;
+}
