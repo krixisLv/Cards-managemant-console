@@ -18,6 +18,4 @@ Card deletion.
 
 Development of card generators, indicating the series and number of cards that were     generated and "expiration date" with a value of "one year", "6 months" and "1 month".
 After a card expiration, it should have a status "expired".
-Annotation: date fields should involve time.
-The result should be put on any of Revision Control Management (SVN, Git).
-Please, send us a project link and access to it.
+
